@@ -2,9 +2,9 @@
 
 ![Frusta_Fundamental](https://i.imgur.com/E1laUdb.jpg)
 
-* Keyboard Maintainer: [PicoLab](https://github.com/PicoLabHK) (Contact: [enquiry@picolab.hk](mailto:enquiry@picolab.hk))
-* Hardware Supported: Frusta PCBs, both solderable and hotswap
-* Hardware Availability: All boards can be found [Here](https://picolab.hk) (ISS started, GB not yet)
+- Keyboard Maintainer: [Humphrey Kwok](https://github.com/humphreykwok)
+- Hardware Supported: Frusta PCBs, both solderable and hotswap
+- Hardware Availability: All boards can be found [Here](https://picolab.hk) (ISS started, GB not yet)
 
 Make example for this keyboard (after setting up your build environment):
 
